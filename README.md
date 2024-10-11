@@ -8,7 +8,7 @@ Team project using SFML library
 * <a href="https://github.com/sumitrijal1">Sumit Rijal - Github</a><br>
 
 ## Links
-+ <a href = "https://github.com/chyroshan066/CPP-Projectr">Project homepage</a>
++ <a href = "https://github.com/chyroshan066/CPP-Project">Project homepage</a>
 + Other Projects:
   - <a href = "https://github.com/chyroshan066/Notes">Notes App</a>
   - <a href = "https://github.com/chyroshan066/News-App">News App</a>
